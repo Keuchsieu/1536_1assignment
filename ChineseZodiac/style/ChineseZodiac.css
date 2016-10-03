@@ -88,29 +88,25 @@ a{
   font-size: 70%;
   background: white;
 }
-#leftcolomn{
-  /*margin-left: 0;*/
+.leftcolomn{
   float:left;
   background: rgb(231,212,179);
-  display: table;
   width: 50%;
   text-align: center;
   margin: 0;
 }
-#leftcolomn img{
+.leftcolomn img{
   width: 100px;
   height: 100px;
 }
-#rightcolomn{
-  /*margin-right: 100;*/
+.rightcolomn{
   float:right;
   background: rgb(231,212,179);
-  display: table;
   width:50%;
   text-align: center;
   margin: 0;
 }
-#rightcolomn img{
+.rightcolomn img{
   width: 100px;
   height: 100px;
 }

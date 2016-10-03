@@ -1,26 +1,4 @@
-/*options of background*/
-body1{
-    margin: 0 auto;
-    width: 80%;
-    background-image: url("../images/wallpaper.gif");
-    background-repeat: repeat-x;
-    background-color: rgb(255,213,4);
-    font-family: arial, sans-serif, Helvetica;
-    color: #00a;
-}
-body2{
-    margin: 0 auto;
-    width: 80%;
-    background-image: url("../images/background_option2.jpg");
-    font-family: arial, sans-serif, Helvetica; 
-    color: #fff; 
-}
-body3{
-    margin: 0 auto;
-    width: 80%;
-    background-image: url("../images/background_option3.jpg");
-    font-family: arial, sans-serif, Helvetica;  
-}
+/*background*/
 body{
     margin: 0 auto;
     width: 80%;

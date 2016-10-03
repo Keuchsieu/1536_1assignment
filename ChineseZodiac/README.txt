@@ -6,4 +6,6 @@ completed:
 not completed:
 
 major challenges:
- 
+  1.general:	find suitable graphics for pages
+		dealing with block elements and inline elements at the same time.
+  2. 

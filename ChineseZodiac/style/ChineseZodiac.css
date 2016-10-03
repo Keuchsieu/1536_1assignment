@@ -3,7 +3,8 @@ body{
     margin: 0 auto;
     width: 80%;
     background-image: url("../images/background.png");
-    font-family: arial, sans-serif, Helvetica;  
+    font-family: arial, sans-serif, Helvetica;
+    font-size: 100%;  
 }
 /*the body styles start below*/
 .banner img{

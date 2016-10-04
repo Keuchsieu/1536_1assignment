@@ -1,0 +1,21 @@
+body{
+    background: #250672;
+}
+table th,bottom{
+    background:  #452b83;
+}
+table td{
+    background: #7147d7;
+}
+table, th, td{
+    border: 1px solid grey;
+    width:60%;
+    margin: auto;
+    color: white;
+}
+.row1, .row2{
+    width:30%;
+}
+.row3, .row4, .row5, .row6{
+    width:10%;
+}
